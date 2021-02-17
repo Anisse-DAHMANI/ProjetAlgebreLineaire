@@ -1,0 +1,13 @@
+6
+a c e g
+d e g
+b f g
+a b c f
+d f g
+d e g
+0 1 2 3
+1 4
+2 0 3
+3 2 5
+4 1 4
+5 2 4
